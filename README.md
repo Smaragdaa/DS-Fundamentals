@@ -27,5 +27,4 @@ Course materials and activities for Weeks 1–3, organized by week into notes an
 
 - **Week 1:** Python basics notes and an activity on data science in everyday life.
 - **Week 2:** Exercise and code starter files.
-- **Week 3:** Design-principles notes andengagement activity.
-
+- **Week 3:** Design-principles notes and engagement activity.
